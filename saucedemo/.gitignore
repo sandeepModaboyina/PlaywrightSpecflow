@@ -1,0 +1,7 @@
+*.obj
+# Libraries
+*.lib
+# Debug files
+*bin
+
+*Screenshots
