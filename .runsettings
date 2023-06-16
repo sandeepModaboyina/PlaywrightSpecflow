@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <NUnit>
+    <NumberOfTestWorkers>5</NumberOfTestWorkers>
+  </NUnit>
+  <TestRunParameters>
+    <Parameter name="WebAppUrl" value="https://www.saucedemo.com/"/>
+    </TestRunParameters>
+  <Playwright>
+    <BrowserName>chromium</BrowserName>
+    <LaunchOptions>
+      <Headless>false</Headless>
+      <Channel>msedge</Channel>
+    </LaunchOptions>
+  </Playwright>
+</RunSettings>
